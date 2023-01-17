@@ -1,7 +1,8 @@
-# Plagiarism-checker-Python
+# Plagiarism Checker Python
 
 This repo consists of a source code of a python script to detect plagiarism in textual document using **cosine similarity**
 
+![PL](https://i.ytimg.com/vi/lRzC3w2NDg0/maxresdefault.jpg)
 
 ## How is it done?
 
